@@ -55,13 +55,3 @@ An Android expense tracker that helps you record credits and debits, track savin
 ## Screens and Resources
 App name is `EXPENZO` and resources include multiple locale strings under `app/src/main/res/values-*`.
 
-## Daily Maintenance Log
-
-- 2026-06-06 09:31:39 UTC: automated maintenance check-in for `Hardeeh03/expense-management`.
-- 2026-06-07 10:10:38 UTC: automated maintenance check-in for `Hardeeh03/expense-management`.
-- 2026-06-11 11:50:50 UTC: automated maintenance check-in for `Hardeeh03/expense-management`.
-- 2026-06-12 11:10:29 UTC: automated maintenance check-in for `Hardeeh03/expense-management`.
-- 2026-06-16 12:24:03 UTC: automated maintenance check-in for `Hardeeh03/expense-management`.
-- 2026-06-17 11:58:09 UTC: automated maintenance check-in for `Hardeeh03/expense-management`.
-- 2026-06-21 10:49:31 UTC: automated maintenance check-in for `Hardeeh03/expense-management`.
-- 2026-06-22 13:07:23 UTC: automated maintenance check-in for `Hardeeh03/expense-management`.
